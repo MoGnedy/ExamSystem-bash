@@ -1,0 +1,18 @@
+welcome to exam
+
+The  main menu of the system  have 
+
+1) Sign UP :  if you don't have account , you can sign up and you will get your id 
+              (user name is unique , you can't signup with name is already exist)
+              
+2) Login   :  you have to login to start your exam (by your id and  your username).
+ 
+             *) After that you will choose from another menu which number of question you want in exam.
+             *) questions are selected randomly from three levels (easy , medium , hard)
+             *) After you finish your Exam ,you will know your result and your grade in this exam. 
+
+3) Report  :  if you an admin and you want to know report about system , you can choose this option .
+              But if you choose this option then you have to login as admin
+ 
+4) Exit    :  To exit from all system.
+
